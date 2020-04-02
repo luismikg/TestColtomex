@@ -47,7 +47,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="$USER_HOME$/Downloads/sennor.jpg" />
+                                      <entry key="imageAsset" value="$USER_HOME$/Downloads/laura.jpg" />
+                                      <entry key="outputName" value="laura" />
                                       <entry key="theme" value="HOLO_DARK" />
                                       <entry key="themeColor" value="ffffff" />
                                     </map>
@@ -76,10 +77,6 @@
                                   <option name="values">
                                     <map>
                                       <entry key="foregroundImage" value="$USER_HOME$/Downloads/sennor.jpg" />
-                                      <entry key="generateLegacyIcon" value="false" />
-                                      <entry key="generatePlayStoreIcon" value="false" />
-                                      <entry key="generateRoundIcon" value="false" />
-                                      <entry key="legacyIconShape" value="NONE" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -166,7 +163,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputIconType" value="LAUNCHER_LEGACY" />
+                            <entry key="outputIconType" value="ACTIONBAR" />
                           </map>
                         </option>
                       </PersistentState>
