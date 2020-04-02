@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TestColtomex</string>
+    <string name="confirm">Confirm</string>
+    <string name="to_pay">To pay</string>
+    <string name="service_cost">Service cost</string>
+    <string name="total">Total</string>
+    <string name="hint_message">Message (optional)</string>
+    <string name="name_user" translatable="false">Fernanda Herrera</string>
+    <string name="phone_user" translatable="false">56571111</string>
+    <string name="dash" translatable="false">-</string>
 </resources>

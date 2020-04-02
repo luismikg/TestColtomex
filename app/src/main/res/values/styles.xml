@@ -6,6 +6,23 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="MaterialComponent" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorPrimary">@color/pinkColor</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:fontFamily">@font/roboto</item>
+
+        <item name="textAppearanceButton">@style/ButtonTextAppearance</item>
+    </style>
+
+    <style name="ButtonTextAppearance" parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:textAllCaps">false</item>
     </style>
 
 </resources>

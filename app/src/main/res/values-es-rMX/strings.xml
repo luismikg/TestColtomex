@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestColtomex</string>
+    <string name="confirm">Confirmar</string>
+    <string name="to_pay">Monto a pagar</string>
+    <string name="service_cost">Costo de servicio</string>
+    <string name="total">Total</string>
+    <string name="hint_message">Mensaje (opcional)</string>
+</resources>
